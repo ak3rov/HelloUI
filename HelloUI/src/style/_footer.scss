@@ -1,0 +1,33 @@
+.footer{
+    background: url(../images/footer/footer.png) center;
+    height: 100vh;
+    width: 100%;
+  
+}
+.footer {
+    .container{
+     .footer__title{
+     margin-top: 150px;
+     font-family: Circular Std;
+     font-style: normal;
+     font-weight: 900;
+     font-size: 65px;
+     line-height: 85px;
+     text-align: center;  
+     color: #FFFFFF;
+   }
+
+   &__item{
+    &__title{
+    font-family: Inter;
+    font-weight: bold;
+    font-size: 1px;
+    line-height: 14px;
+    color: #FFFFFF;
+  }
+}
+ }
+
+    
+      
+}
